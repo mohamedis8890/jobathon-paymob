@@ -1,0 +1,9 @@
+[submodule "login-form"]
+	path = login-form
+	url = https://github.com/mohamedis8890/login-form.git
+[submodule "js-challenge-1"]
+	path = js-challenge-1
+	url = https://github.com/mohamedis8890/js-challenge-1.git
+[submodule "js-challenge-2"]
+	path = js-challenge-2
+	url = https://github.com/mohamedis8890/js-challenge-2.git
